@@ -1,0 +1,4 @@
+translate 1 50 70
+scale O_o 1 1.5
+rotate all 90
+undo

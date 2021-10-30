@@ -1,9 +1,11 @@
+#pragma once
+
 namespace Editor
 {
 	struct Vector2 
 	{
-		Vector2(float xn, float yn) : x(xn), y(yn) {}
-		float x;
-		float y;
+		Vector2(double xn, double yn) : x(xn), y(yn) {}
+		double x;
+		double y;
 	};
 }
